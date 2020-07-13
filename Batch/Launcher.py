@@ -46,6 +46,6 @@ class Launcher:
 
 
 if __name__ == "__main__":
-    batch_laungcher = Launcher("/Users/heesu.lee/DataAnalysisModule-for-CREEDIT/Batch/meta.json")
+    batch_laungcher = Launcher("/Users/beonghyunkang/Documents/GitHub/Githubactiontest/Batch/meta.json")
     batch_laungcher.start()
     pass
